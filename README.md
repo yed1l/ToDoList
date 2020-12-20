@@ -1,2 +1,2 @@
-# ToDoList
-.net
+# .net project
+
